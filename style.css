@@ -65,7 +65,7 @@ a {
 }
 
 header {
-  background-image: url(/images/desktop/image-header.jpg);
+  background-image: url(https://yohanjkang.github.io/responsive-sunnyside-website/images/desktop/image-header.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: bottom;
@@ -241,12 +241,12 @@ header {
 }
 
 .graphic-design {
-  background-image: url(/images/desktop/image-graphic-design.jpg);
+  background-image: url(https://yohanjkang.github.io/responsive-sunnyside-website/images/desktop/image-graphic-design.jpg);
   color: var(--dark-desaturated-cyan);
 }
 
 .photography {
-  background-image: url(/images/desktop/image-photography.jpg);
+  background-image: url(https://yohanjkang.github.io/responsive-sunnyside-website/images/desktop/image-photography.jpg);
   color: var(--dark-blue);
 }
 
